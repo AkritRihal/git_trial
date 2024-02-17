@@ -1,0 +1,1 @@
+Aquamorphir Tic Tac Toe is a serene and minimalist web-based game that brings the classic Tic Tac Toe experience to your browser. Immerse yourself in its calming design, inspired by the fluidity of water and the balance of nature.
